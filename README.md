@@ -17,6 +17,7 @@ MENTOR:NEELA SANTHOSH
 Build a chat application that enables real-time communication between a server and multiple clients simultaneously using multithreading.
 
 **Features:
+
 Java-based client-server architecture
 
 Supports multiple client connections
@@ -28,6 +29,7 @@ Efficient thread handling for simultaneous communication
 Console-based interface for simplicity
 
 **Deliverable:
+
 A functional Java chat application where:
 
 A server handles incoming client connections

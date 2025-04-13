@@ -16,7 +16,7 @@ MENTOR:NEELA SANTHOSH
 
 Build a chat application that enables real-time communication between a server and multiple clients simultaneously using multithreading.
 
-**Features:
+**FEATURES:
 
 Java-based client-server architecture
 
@@ -28,7 +28,7 @@ Efficient thread handling for simultaneous communication
 
 Console-based interface for simplicity
 
-**Deliverable:
+**DELIVERABLE:
 
 A functional Java chat application where:
 
@@ -38,7 +38,7 @@ Clients can send and receive messages in real-time
 
 All clients are able to see messages from others (broadcast mechanism)
 
-**Technologies Used:
+**TECHNOLOGIES USED:
 
 Java
 

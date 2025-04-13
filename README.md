@@ -12,7 +12,7 @@ DURATION:8 WEEKS
 
 MENTOR:NEELA SANTHOSH
 
-**Project Objective:
+**DESCRIPTION:
 
 Build a chat application that enables real-time communication between a server and multiple clients simultaneously using multithreading.
 

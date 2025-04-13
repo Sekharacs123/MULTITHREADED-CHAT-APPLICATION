@@ -12,10 +12,11 @@ DURATION:8 WEEKS
 
 MENTOR:NEELA SANTHOSH
 
-📌 Project Objective:
+**Project Objective:
+
 Build a chat application that enables real-time communication between a server and multiple clients simultaneously using multithreading.
 
-⚙️ Features:
+**Features:
 Java-based client-server architecture
 
 Supports multiple client connections
@@ -26,7 +27,7 @@ Efficient thread handling for simultaneous communication
 
 Console-based interface for simplicity
 
-📦 Deliverable:
+**Deliverable:
 A functional Java chat application where:
 
 A server handles incoming client connections
@@ -35,12 +36,15 @@ Clients can send and receive messages in real-time
 
 All clients are able to see messages from others (broadcast mechanism)
 
-🚀 Technologies Used:
+**Technologies Used:
+
 Java
 
 Socket Programming
 
 Multithreading
+
+OUTPUTS:
 
 
 ![multi thredded chat application outputs](https://github.com/user-attachments/assets/789b4e8d-765f-4e5a-8932-0d3b0a50cdf4)
